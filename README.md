@@ -37,8 +37,7 @@ Netlify Deployed Link 🔴  : https://avez-wobot.netlify.app/
 
 ## Design
 
-The user interface is designed to be visually appealing and user-friendly using React.js. The design prioritizes enhancing the overall user experience. Use your creativity and imagination to craft a delightful interface for exploring and enjoying recipes.
-
+The user interface is designed to be visually appealing and user-friendly using React.js.
 ---
 
 **Project Setup**
