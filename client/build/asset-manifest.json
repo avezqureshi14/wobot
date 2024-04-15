@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c17af9cc.css",
+    "main.js": "/static/js/main.a6a53d1c.js",
+    "static/media/food.png": "/static/media/food.08bbde49bb4e954650e1.png",
+    "static/media/avez.jpg": "/static/media/avez.385705facd858cc7b9fe.jpg",
+    "index.html": "/index.html",
+    "main.c17af9cc.css.map": "/static/css/main.c17af9cc.css.map",
+    "main.a6a53d1c.js.map": "/static/js/main.a6a53d1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17af9cc.css",
+    "static/js/main.a6a53d1c.js"
+  ]
+}
