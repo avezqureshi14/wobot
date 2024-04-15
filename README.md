@@ -2,6 +2,14 @@
 
 This project is a React application that integrates with the Spoonacular Recipe API to display recipes and their details. Users can browse through a list of recipes, view details of each recipe, and navigate seamlessly between different pages of the application.
 
+![s1](https://github.com/avezqureshi14/wobot/assets/95353195/8c9c54ba-84c4-47a1-ad96-d1b187c5dba3)
+
+![s4](https://github.com/avezqureshi14/wobot/assets/95353195/14ae4e39-4e53-4f2e-a7f5-cff913f7ba34)
+
+![s3](https://github.com/avezqureshi14/wobot/assets/95353195/f1de8172-6803-4c93-a475-9b8284bb0183)
+
+![s2](https://github.com/avezqureshi14/wobot/assets/95353195/c4b681b7-0328-4b66-b95d-a75d4bf71758)
+
 ## Features
 
 - **API Integration**: The app uses the Spoonacular Recipe API to fetch recipe data. 
