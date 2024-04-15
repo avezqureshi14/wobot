@@ -2,6 +2,8 @@
 
 This project is a React application that integrates with the Spoonacular Recipe API to display recipes and their details. Users can browse through a list of recipes, view details of each recipe, and navigate seamlessly between different pages of the application.
 
+Netlify Deployed Link 🔴  : https://avez-wobot.netlify.app/
+
 ![s1](https://github.com/avezqureshi14/wobot/assets/95353195/8c9c54ba-84c4-47a1-ad96-d1b187c5dba3)
 
 ![s4](https://github.com/avezqureshi14/wobot/assets/95353195/14ae4e39-4e53-4f2e-a7f5-cff913f7ba34)
@@ -28,9 +30,7 @@ This project is a React application that integrates with the Spoonacular Recipe 
 
 - **Error Handling**: Implements robust error handling for scenarios like invalid API responses or network errors, displaying user-friendly messages to enhance the user experience.
 
-- **Deployment**: The React app is deployed to a hosting platform for accessibility. You can find the deployed app at [Your Deployment Link Here](#).
-
-## Bonus Features (Optional)
+## Bonus Features 
 
 - **Search Functionality**: Allows users to search for recipes by name or ingredients.
 - **User Authentication**: Enables users to save their favorite recipes by implementing user authentication.
