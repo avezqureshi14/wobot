@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    scroll-behavior: smooth;
+}
+
+
+@media(max-width:622px) {
+    .allr {
+        margin-top: 20% !important;
+    }
+}
+
+@media(max-width:387px) {
+    .allr {
+        margin-top: 50% !important;
+    }
+}
